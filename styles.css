@@ -1,0 +1,93 @@
+html {
+    background: url("https://cdn.pixabay.com/photo/2016/11/23/14/04/beach-1853075_1280.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+
+    /* Full height */
+    height: 100%;
+    line-height: 1;
+
+
+
+
+    font-family: 'Sofia' sans-serif;
+    font-size: 22px;
+    color: #ed786f;
+    margin: 0;
+
+}
+
+a {
+    color: inherit;
+}
+
+.logo {
+    text-align: center;
+    
+}
+
+header {
+    background-color: rgba(124, 174, 228, 0.553);
+    
+  }
+
+  .main-header {
+    font-family: 'Sofia' sans-serif;
+    text-align:center;
+    padding-top: 20px;
+  }
+
+
+
+.social {
+    padding: 16px 8px;
+}
+
+.main-nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+.main-nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-me {
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.pictures {
+border: 5px solid #e76a39;
+border-radius: 4px;
+padding: 4px;
+
+}
+
+.connect {
+    background-color: rgb(248, 225, 225);
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+    border: 15px solid rgb(34, 84, 104);
+    padding: 50px;
+    margin-top: 150px;
+    margin-left: 550px;
+}
+
+.button {
+    justify-content: flex-end;
+
+}
